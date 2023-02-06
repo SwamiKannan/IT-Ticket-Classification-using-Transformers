@@ -1,6 +1,6 @@
 # IT Ticket Classification using Transformers
 <p align="center">
-<img src="https://github.com/SwamiKannan/automated-ticket-classification/blob/main/cover.png" width=50% height=50%>
+<img src="https://github.com/SwamiKannan/IT-Ticket-Classification-using-Transformers/blob/main/cover.png" width=50% height=50%>
 </p>
 
 ## Data:
